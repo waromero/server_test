@@ -1,10 +1,10 @@
 # server_test
 
-The Server class is a base class used in the test cases of our test package. One of the developers has reported an issue with the https_test:
+The `Server` class is a base class used in the test cases of our test package. One of the developers has reported an issue with the `https_test`:
 
 ![HTTPS_ERROR](2018-server_test-https-ERROR.png)
 
-However, the http_test is working fine:
+However, the `http_test` is working fine:
 
 ![HTTP_EXEC](2018-server_test-http-EXEC.png)
 
